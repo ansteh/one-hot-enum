@@ -1,0 +1,30 @@
+{
+  "name": "one-hot-enum",
+  "version": "0.0.1",
+  "description": "one hot encoding enumerations",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ansteh/one-hot-enum.git"
+  },
+  "keywords": [
+    "one-hot",
+    "enum",
+    "enumerations"
+  ],
+  "author": "Andre Stehle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ansteh/one-hot-enum/issues"
+  },
+  "dependencies": {
+    "lodash": "^4.13.1"
+  },
+  "devDependencies": {}
+}
