@@ -12,6 +12,7 @@ console.log(encoded);
 
 console.log(onehot.value(enumaration, _.last(encoded)));
 
+//encoder
 let encoder = onehot.encoder();
 _.forEach(list, value => encoder.add(value));
 console.log(encoder.getEncoding());
