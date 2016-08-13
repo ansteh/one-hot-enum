@@ -1,6 +1,6 @@
 {
   "name": "one-hot-enum",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "one hot encoding enumerations",
   "main": "index.js",
   "scripts": {
@@ -24,7 +24,7 @@
     "url": "https://github.com/ansteh/one-hot-enum/issues"
   },
   "dependencies": {
-    "lodash": "^4.13.1"
+    "lodash": "^4.15.0"
   },
   "devDependencies": {}
 }
